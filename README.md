@@ -1,0 +1,2 @@
+# HttpScalaj
+Scalaj HTTP POC
